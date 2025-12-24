@@ -1,4 +1,4 @@
-👋 Welcome to my GitHub profile! I'm an Economics student with a passion for econometrics, data analysis, and financial analysis. Here's a brief overview of what you'll find in my repositories:
+👋 Welcome to my GitHub profile! I'm a student of economics  with a passion for econometrics, data analysis, and financial analysis. Here's a brief overview of what you'll find in my repositories:
 
 📈 Econometrics with Python:
 I love exploring the world of econometrics using Python. You'll find a collection of Jupyter notebooks and Python scripts showcasing various econometric techniques like regression analysis, time series analysis, panel data, and more. I'm always eager to improve my econometric skills and may even experiment with machine learning applications to economic data.
